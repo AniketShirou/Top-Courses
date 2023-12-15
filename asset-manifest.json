@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/github.io/Top-Courses/static/css/main.dea0fbc2.css",
+    "main.js": "/github.io/Top-Courses/static/js/main.fd4e210e.js",
+    "index.html": "/github.io/Top-Courses/index.html",
+    "main.dea0fbc2.css.map": "/github.io/Top-Courses/static/css/main.dea0fbc2.css.map",
+    "main.fd4e210e.js.map": "/github.io/Top-Courses/static/js/main.fd4e210e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dea0fbc2.css",
+    "static/js/main.fd4e210e.js"
+  ]
+}
